@@ -32,11 +32,12 @@ nav{
 /* Container Div. */
 
 .image-container{
+      min-width: 100vh;
       height: 30rem;
       /* min-width: 100vh; */
       width:auto;
       max-width: 60rem;
-      background: url("/img/img9.jpg") center/cover fixed no-repeat;
+      background: url(/pexels-steve-johnson-1532704.jpg);
       border:  transparent;
       border-radius: 2rem;
       position: relative;
