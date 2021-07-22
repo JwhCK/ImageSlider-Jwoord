@@ -35,10 +35,10 @@ nav{
 }
 
 .image-container{
-      width: 50vw;
+      width: 80vw;
       height: auto;
       /* min-width: 100vh; */
-      max-height: 30vw;
+      max-height: 40vw;
       max-width: 60rem;
       background: url(/pexels-steve-johnson-1532704.jpg);
       border:  transparent;
